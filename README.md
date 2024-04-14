@@ -10,4 +10,5 @@ There are many music downloaders on the web and even some that can download from
 
 Other than that deemix will still be working fine until deezer breaks something. 
 
-[Click here to see Original Post]([https://www.reddit.com/r/deemix/comments/zlswiz/last_update_is_now_out/])
+[Click here to see Original Post](https://www.reddit.com/r/deemix/comments/zlswiz/last_update_is_now_out/)
+
