@@ -12,3 +12,6 @@ Other than that deemix will still be working fine until deezer breaks something.
 
 [Click here to see Original Post](https://old.reddit.com/r/deemix/comments/zlswiz/last_update_is_now_out/)
 
+
+# Note
+Please note that this is NOT the original version of Deemix. This is a fan updated version. RemixDev is not responsible for this version.
